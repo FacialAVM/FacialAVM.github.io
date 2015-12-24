@@ -3,7 +3,6 @@ sectionid: treatment
 sectionclass: h1
 is-parent: yes
 title: Treatment
-number: 3000
 ---
 Treatment options. Research.
 
