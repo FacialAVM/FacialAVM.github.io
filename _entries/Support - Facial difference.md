@@ -1,7 +1,7 @@
 ---
 sectionid: support-facial-difference
-sectionclass: h1
-is-parent: yes
+sectionclass: h2
+parent-id: support
 number: 4200
 title: Facial difference
 ---
