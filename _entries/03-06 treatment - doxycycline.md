@@ -3,7 +3,6 @@ sectionid: treatment-doxy
 sectionclass: h2
 parent-id: treatment
 title: Doxycycline
-number: 3600
 ---
 Treatment options. Research.
 
