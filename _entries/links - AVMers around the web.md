@@ -1,7 +1,7 @@
 ---
 sectionid: links-avmers
 sectionclass: h2
-parent-id:links
+parent-id: links
 title: AVMers around the web
 number: 5100
 ---
