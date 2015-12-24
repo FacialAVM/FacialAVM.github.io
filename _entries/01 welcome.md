@@ -3,7 +3,6 @@ sectionid: welcome
 sectionclass: h1
 is-parent: no
 title: Welcome!
-number: 1000
 ---
 This site is intended to serve as a stable resource center for information about arteriovenous malformations (AVMs) of the head and neck.
 
