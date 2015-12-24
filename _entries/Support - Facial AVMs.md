@@ -1,7 +1,7 @@
 ---
 sectionid: support-facial-avms
-sectionclass: h1
-is-parent: yes
+sectionclass: h2
+parent-id: support
 number: 4100
 title: Facial AVM support
 ---
