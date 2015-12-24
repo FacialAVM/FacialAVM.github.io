@@ -1,8 +1,8 @@
 ---
-sectionid: support
+sectionid: support-general
 sectionclass: h1
-is-parent: yes
+parent-id: support
 number: 4000
-title: Support
+title: General AVM support
 ---
 Links to support groups, etc.
