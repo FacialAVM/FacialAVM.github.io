@@ -1,7 +1,7 @@
 ---
 sectionid: links
 sectionclass: h1
-is-parent: no
+is-parent: yes
 title: Links
 number: 5000
 ---
