@@ -3,7 +3,6 @@ sectionid: treatment-embo
 sectionclass: h2
 parent-id: treatment
 title: Embolization
-number: 3100
 ---
 Treatment options. Research.
 
