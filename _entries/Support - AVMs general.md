@@ -1,6 +1,6 @@
 ---
 sectionid: support-general
-sectionclass: h1
+sectionclass: h2
 parent-id: support
 number: 4000
 title: General AVM support
