@@ -16,13 +16,13 @@ body{
 }
 
 .overview{
-    width: 320px;
+    width: 200px;
     font-size: 18px;
 }
 
 .content{
     counter-reset: h1-counter;
-    width: calc(100% - 320px);
+    width: calc(100% - 200px);
     position: absolute;
     right: 0;
     
