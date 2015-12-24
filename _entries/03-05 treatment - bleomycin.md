@@ -3,7 +3,6 @@ sectionid: treatment-bleomycin
 sectionclass: h2
 parent-id: treatment
 title: Bleomycin
-number: 3500
 ---
 Treatment options. Research.
 
