@@ -2,7 +2,7 @@
 sectionid: treatment-surgery
 sectionclass: h2
 parent-id: treatment
-title: Treatment
+title: Surgery
 number: 3200
 ---
 Treatment options. Research.
