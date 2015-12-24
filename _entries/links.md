@@ -3,6 +3,6 @@ sectionid: links
 sectionclass: h1
 is-parent: yes
 title: Links
-number: 5000
+number: 6000
 ---
 Links to charities, blogs, and other websites about AVMs and vascular malformations.
