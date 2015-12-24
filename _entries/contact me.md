@@ -5,4 +5,5 @@ is-parent: no
 title: Contact Me
 number: 6000
 ---
-Ways to contact me.
+Email: info(AT)facialavm.com
+Twitter: emilyeye
