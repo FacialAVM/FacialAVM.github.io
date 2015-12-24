@@ -3,7 +3,6 @@ sectionid: treatment-radiation
 sectionclass: h2
 parent-id: treatment
 title: Radiation
-number: 3300
 ---
 Treatment options. Research.
 
