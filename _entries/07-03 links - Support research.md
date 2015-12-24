@@ -3,7 +3,6 @@ sectionid: links-waystohelp
 sectionclass: h2
 parent-id: links
 title: Ways to help
-number: 7300
 ---
 
 AVM treatment can be extremely expensive. Here are some fundraisers to help people with facial AVMs afford treatment and recovery:
