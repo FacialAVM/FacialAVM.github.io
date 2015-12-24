@@ -3,7 +3,7 @@ sectionid: links-orgs
 sectionclass: h2
 parent-id: links
 title: Organizations
-number: 6200
+number: 7200
 ---
 
 <a href="http://www.butterflyavmcharity.org.uk/">The Butterfly AVM Charity</a> (lots of facial/peripheral AVM information)
