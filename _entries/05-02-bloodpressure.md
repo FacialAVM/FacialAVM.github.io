@@ -1,7 +1,7 @@
 ---
-sectionid: selfcare-diet
+sectionid: selfcare-bloodpressure
 sectionclass: h2
 parent-id: selfcare
-title: Diet
+title: Blood pressure
 ---
 Under construction
